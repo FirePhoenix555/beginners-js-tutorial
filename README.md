@@ -138,7 +138,6 @@ This tutorial is just meant to show you the basics of JavaScript in websites. Mo
 If you have any questions, you can contact me through any of the ways listed [on my about page](https://firenix.net/about) (the contact section is at the end).
 
 ---
----
 1: To clarify, this tutorial will not get you to the point of how JavaScript is typically used. It simply bridges the gap a little bit to introduce you to the *environment* of web development, not exactly the typical uses of JavaScript. For those, you should learn more HTML (and CSS) first. The "Moving beyond this tutorial" section touches on these a bit.
 
 2: Of course, CMD instead of CTRL and OPTION instead of SHIFT for Macs (or keyboards that use the Mac layout).
